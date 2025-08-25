@@ -31,7 +31,7 @@ I created a semantic HTML structure with:
 - **Typography**: Imported and applied custom fonts
 - **Layout**: Used `display: flex` with `flex-direction: column`
 - **Colors**: Managed with CSS custom properties (variables) 🎨
-- **Interactive States**: Implemented `:hover` and `:focus` effects
+- **Interactive States**: Implemented `:hover` effect
 
 ### 3. Interactive Elements ⚡
 - Added **hover effects** on interactive elements
