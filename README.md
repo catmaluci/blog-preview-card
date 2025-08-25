@@ -1,5 +1,5 @@
 # Frontend Mentor - Blog Preview Card Solution 🔗
-This is my solution to the [Blog preview card challenge](https://) on Frontend Mentor.
+This is my solution to the [Blog preview card challenge](https://blog-preview-card-five-sepia.vercel.app/) on Frontend Mentor.
 
 ## Overview ✨
 
@@ -45,7 +45,7 @@ I created a semantic HTML structure with:
 - **Attention to detail** in design implementation 🎯
 
 ## 🔗 Links
-- **🌐 Live Site URL**: [Add your live site URL here]
+- **🌐 Live Site URL**: [Blog preview card challenge](https://blog-preview-card-five-sepia.vercel.app/)
 
 ### **👥 Solved by M Olaya** 
 <a href="https://www.linkedin.com/in/molaya">LinkedIn</a> 
